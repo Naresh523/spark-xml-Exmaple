@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
     <id>1</id>
-    <Contact>
+    <Contact> <!-- Contact tags are the data -->
         <name>A green door</name>
         <price>12.5</price>
         <tags>home</tags>
