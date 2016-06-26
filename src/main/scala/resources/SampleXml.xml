@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Information>
+    <id>1</id>
+    <Contact>
+        <name>A green door</name>
+        <price>12.5</price>
+        <tags>home</tags>
+        <tags>green</tags>
+        <parts>
+            <part>
+                <lock>One lock</lock>
+                <key>single key</key>
+            </part>
+            <part>
+                <lock>2 lock</lock>
+                <key>2 key</key>
+            </part>
+        </parts>
+    </Contact>
+    <Contact>
+        <name>A Yellow door</name>
+        <price>12.5</price>
+        <tags>Pent house</tags>
+        <tags>green</tags>
+        <parts>
+            <part>
+                <lock>five locks</lock>
+                <key>two keys</key>
+            </part>
+            <part>
+                <lock>3 locks</lock>
+                <key>4 keys</key>
+            </part>
+        </parts>
+    </Contact>
+</Information>
